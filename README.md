@@ -6,7 +6,7 @@
 
 **Programming Language** Python
 
-**Packages** Anaconda, Jupyter, pandas, numpy, matplotlib, sklearn
+**Packages** Anaconda, Jupyter, pandas, numpy, matplotlib, seaborn, sklearn
 
 **Tools/IDE** Jupyter notebook (IPython)
 
